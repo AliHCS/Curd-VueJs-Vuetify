@@ -16,12 +16,6 @@
                     Un proyecto FontEnd que muestra el uso de VueJs y Vuetify, en el cual se puede observar la navegacion entre pestañas,
                     y la interaccion con los componentes de Vuetify, asi como el uso de iconos de Material Design y otros url de paginas externas.
                   </v-card-subtitle>
-
-                  <v-card-actions>
-                    <v-btn text @click="sitioFi">
-                      Sitio web
-                    </v-btn>
-                  </v-card-actions>
                 </div>
                 <v-avatar class="ma-3" size="125" tile>
                   <v-img src="../assets/logo.png"></v-img>
